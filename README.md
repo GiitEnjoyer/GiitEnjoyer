@@ -23,13 +23,4 @@
 
 ---
 
-### 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiitEnjoyer&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiitEnjoyer&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center"><i>Открыт для проектов по автоматизации, скрапингу и небольшим backend-сервисам и не только!</i></p>
